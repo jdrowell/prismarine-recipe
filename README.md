@@ -1,5 +1,7 @@
 # prismarine-recipe
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PrismarineJS/prismarine-recipe.svg)](https://greenkeeper.io/)
+
 Represent minecraft recipes
 
 ## Usage
